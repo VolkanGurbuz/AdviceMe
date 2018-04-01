@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_news"
+        android:icon="@drawable/message_icon"
+        android:title="News"></item>
+
+    <item android:id="@+id/action_explore"
+        android:icon="@drawable/meet_date_icon"
+        android:title="Explore"></item>
+
+    <item android:id="@+id/action_upload"
+        android:icon="@drawable/setting_icon"
+        android:title="Upload"></item>
+
+</menu>
